@@ -1,5 +1,5 @@
 {
   "version": "7.0",
-  "downloadUrl": "https://github.com/ejderlee/aliniq-seed-data/releases/download/v7.0/AlinIQ-Tools.exe",
-  "releaseNotes": "İlk kararlı sürüm"
+  "downloadUrl": "https://github.com/ejderlee/aliniq-seed-data/releases/download/v7.0/AlinIQ.Tools.exe",
+  "releaseNotes": "Alarm sistemi, görev düzenleme, performans iyileştirmeleri"
 }
